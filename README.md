@@ -21,7 +21,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-La pornire apare un meniu de selecție a plasei de start:
+La pornire apare un meniu de selecție a obiectului:
 
 | Plasă | Vârfuri | Fețe |
 |-------|---------|------|
@@ -127,7 +127,7 @@ ModellingEngine/
 ├── main.py        # Bucla principală, input, HUD, randare
 ├── mesh.py        # Clasa Obiect (vârfuri, fețe, muchii)
 ├── math3d.py      # Matrice 3D, proiecție, raza Möller–Trumbore
-├── objects.py     # Generatoare de plasă: cub, sferă, tor
+├── objects.py     # Generatoare de obiect: cub, sferă, tor
 ├── io_obj.py      # Import / export Wavefront .obj
 └── requirements.txt
 ```
