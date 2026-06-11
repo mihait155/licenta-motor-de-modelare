@@ -1,6 +1,6 @@
 # Motor de Modelare 3D
 
-Un motor de modelare 3D scris în Python, fără GPU — doar `numpy` și `pygame`.
+Un motor de modelare 3D scris în Python ( doar `numpy` și `pygame`).
 Suportă editare de vârfuri, creare de fețe, import/export `.obj` și mai multe moduri de randare.
 
 ---
@@ -11,7 +11,7 @@ Suportă editare de vârfuri, creare de fețe, import/export `.obj` și mai mult
 pip install -r requirements.txt
 ```
 
-> Python 3.10+ recomandat.
+Python 3.10+ recomandat.
 
 ---
 
